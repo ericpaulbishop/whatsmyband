@@ -1,0 +1,19 @@
+# What's my Band?
+
+I built the following script in 2 hours for a laugh.  Yes, I was drunk. I may have hit the Balmer peak -- http://xkcd.com/323/ 
+
+I built this automatic generator after seeing the following post on reddit.com:
+
+"Every band ever used this..." from http://www.reddit.com/r/funny/comments/lplhn/every_band_ever_used_this/
+
+1- Go to Wikipedia and Hit “Random Article” on the right The first random wikipedia article you get is the name of your band.
+
+2 - Go to Random quotations Hit refresh, and the last four or five words of the very last quote of the page is the title of your first album.
+
+3 - Go to flickr and click on “explore the last seven days” Third picture, no matter what it is, will be your album cover.
+
+4 - Use Photoshop, Paint, or similar to put it all together
+
+Basically, it's just a perl script that automates the process by grabbing a random Wikipedia article, the end of a random quote and a random flickr image 
+and then uses the imagemagick convert utility to combine them.  It takes about 5-10 seconds to generate, and the final image is saved as cover.jpg.
+

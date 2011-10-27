@@ -2,11 +2,10 @@
 use strict;
 use warnings;
 
-###################################################################################################
-# I built the following in 2 hours for a laugh.  Yes, I was drunk. I may have hit the Balmer peak #
-###################################################################################################
-
-############################################################################################################################################################
+##############################################################################################################################################################
+#
+# I built the following in 2 hours for a laugh.  Yes, I was drunk. I may have hit the Balmer peak -- http://xkcd.com/323/ 
+#
 # "Every band ever used this..." from http://www.reddit.com/r/funny/comments/lplhn/every_band_ever_used_this/
 #
 # 1- Go to Wikipedia and Hit “Random Article” on the right The first random wikipedia article you get is the name of your band.
